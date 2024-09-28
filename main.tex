@@ -1,0 +1,93 @@
+\documentclass[a5paper,twoside,russian]{report}
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+%\usepackage[amsmath]{}
+%\usepackage[dvips]{color}
+%\usepackage[dviwin]{graphics}
+\usepackage[pdftex]{}
+\usepackage{latexsym, eucal, bm, color, amsfonts, amsmath, amssymb, a4wide, epsfig}
+%\usepackage{psfig}
+\usepackage{hyperref, cite}
+\usepackage{nccboxes}
+\usepackage[alex]{}
+%\usepackage[exercise]{}
+
+\newtheorem{theorem}{Теорема}[section]
+\newtheorem{lemma}{Лемма}
+\newtheorem{corollary}{Следствие}
+\newtheorem{definition}{Определение}
+\newtheorem{property}{Свойство}
+\newtheorem{example}{Пример}
+\newtheorem{remark}{Замечение}
+\newtheorem{proposition}{Предложение}
+\newtheorem{hypothesis}{Гипотеза}
+\newtheorem{exersize}{Упражнение}[chapter]
+\pagestyle {plain}
+
+\clubpenalty=10000
+\widowpenalty=10000
+\multlinegap=0pt
+
+\hoffset=-10.4mm \voffset=-17.4mm \oddsidemargin=5mm \evensidemargin=0mm \topmargin=0mm \headheight=0mm \headsep=9mm \footskip=1cm
+\textheight=174mm \textwidth=113mm
+
+
+
+\binoppenalty=10000 \relpenalty=10000
+
+\makeatletter
+
+\selectlanguage{russian}
+
+\input {alex.sty}
+
+%\includeonly {section_7}
+
+%----------------------------------------------------------------
+\begin{document}
+\input {_title}
+
+
+\tableofcontents
+\clearpage
+
+
+
+\input {intro}
+\clearpage
+
+
+%\fontsize {9dd}{11dd} \selectfont
+
+
+
+
+
+
+
+\fontsize {10dd}{12dd} \selectfont
+
+
+
+\sloppy
+
+\pagestyle {myheadings}
+
+\renewcommand{\@evenhead}{\hfil \small\leftmark\hfil}
+\renewcommand{\@oddhead}{\hfil \small\rightmark \hfil}
+\renewcommand{\@evenfoot}{\hfil\thepage\hfil}
+\renewcommand{\@oddfoot}{\hfil\thepage\hfil}
+
+%\clearpage
+
+
+%\include {intro}
+\include {section_1}
+\include {section_2}
+
+
+\input {_close}
+
+\end{document}
+%----------------------------------------------------------------
