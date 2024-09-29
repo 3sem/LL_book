@@ -7,6 +7,8 @@
 %\usepackage[dviwin]{graphics}
 \usepackage[pdftex]{}
 \usepackage{latexsym, eucal, bm, color, amsfonts, amsmath, amssymb, a4wide, epsfig}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
 %\usepackage{psfig}
 \usepackage{hyperref, cite}
 \usepackage{nccboxes}
@@ -41,7 +43,31 @@
 \selectlanguage{russian}
 
 \input {alex.sty}
-
+%\input {algorithm.sty}
+%\input {algorithmyc.sty}
+\def\algorithmicrequire{\textbf{Вход:}}
+\def\algorithmicensure{\textbf{Выход:}}
+\def\algorithmicif{\textbf{если}}
+\def\algorithmicthen{\textbf{то}}
+\def\algorithmicelse{\textbf{иначе}}
+\def\algorithmicelsif{\textbf{иначе если}}
+\def\algorithmicforall{\textbf{для всех}}
+\def\algorithmicdo{}
+\def\algorithmicwhile{\textbf{пока}}
+\def\algorithmicrepeat{\textbf{повторять}}
+\def\algorithmicuntil{\textbf{пока}}
+\def\algorithmicloop{\textbf{цикл}}
+\def\algorithmiccase{\textbf{если}}
+\def\algorithmicswitch{\textbf{В зависимости от }}
+\def\algorithmiccomment#1{\quad// {\sl #1}}
+\def\e{\varepsilon}
+\algnewcommand\algorithmicswitch{\textbf{switch}}
+\algnewcommand\algorithmiccase{\textbf{case}}
+\usepackage{graphicx}
+\algdef{SE}[SWITCH]{Switch}{EndSwitch}[1]{\algorithmicswitch\ #1\ \algorithmicdo}{\algorithmicend\ \algorithmicswitch}%
+\algdef{SE}[CASE]{Case}{EndCase}[1]{\algorithmiccase\ #1}{\algorithmicend\ \algorithmiccase}%
+\algtext*{EndSwitch}%
+\algtext*{EndCase}%
 %\includeonly {section_7}
 
 %----------------------------------------------------------------

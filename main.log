@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,6 +416,45 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \epsfxsize=\dimen151
 \epsfysize=\dimen152
+) (algorithm.sty
+Package: algorithm 
+
+Document Style `algorithm' - floating environment
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count274
+\float@exts=\toks25
+\float@box=\box52
+\@float@everytoks=\toks26
+\@floatcapt=\box53
+)
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks27
+\c@algorithm=\count275
+)
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algps
+eudocode.sty
+Package: algpseudocode 
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algor
+ithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count276
+\c@ALG@rem=\count277
+\c@ALG@nested=\count278
+\ALG@tlm=\skip52
+\ALG@thistlm=\skip53
+\c@ALG@Lnr=\count279
+\c@ALG@blocknr=\count280
+\c@ALG@storecount=\count281
+\c@ALG@tmpcounter=\count282
+\ALG@tmplength=\skip54
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
 )
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.
 sty
@@ -470,8 +509,8 @@ s.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 )
 \@linkdim=\dimen153
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.de
 f
@@ -487,7 +526,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count276
+\Hy@SavedSpaceFactor=\count285
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
@@ -502,7 +541,7 @@ Package hyperref Info: Plain pages OFF on input line 4152.
 Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count277
+\c@Hy@tempcnt=\count286
  (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -519,7 +558,7 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count278
+\Fld@menulength=\count287
 \Field@Width=\dimen155
 \Fld@charsize=\dimen156
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -537,9 +576,9 @@ sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -553,8 +592,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rer
 unfilecheck.sty
@@ -567,7 +606,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip55
 )
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -577,67 +616,67 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccboxes.
 sty
 Package: nccboxes 2005/02/07 v1.2 Additional Boxes (NCC)
-\NCC@strutbox=\box52
+\NCC@strutbox=\box54
 \NCC@strutsep=\dimen157
 )
-\c@theorem=\count284
-\c@lemma=\count285
-\c@corollary=\count286
-\c@definition=\count287
-\c@property=\count288
-\c@example=\count289
-\c@remark=\count290
-\c@proposition=\count291
-\c@hypothesis=\count292
-\c@exersize=\count293
+\c@theorem=\count293
+\c@lemma=\count294
+\c@corollary=\count295
+\c@definition=\count296
+\c@property=\count297
+\c@example=\count298
+\c@remark=\count299
+\c@proposition=\count300
+\c@hypothesis=\count301
+\c@exersize=\count302
  (alex.sty heading names, headings, captions, theorems, running heads,
 appendix, \output,
-\c@rlistctr=\count294
+\c@rlistctr=\count303
  quotes,)
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box55
 ) (main.aux (section_1.aux) (section_2.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Info: Redefining \th on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Info: Redefining \th on input line 74.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
+\scratchcounter=\count305
 \scratchdimen=\dimen158
-\scratchbox=\box54
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count299
+\scratchbox=\box56
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count308
 \MPscratchDim=\dimen159
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks29
 )
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty
@@ -649,7 +688,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 48.
+Package hyperref Info: Link coloring OFF on input line 74.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
 ty
@@ -663,11 +702,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count302
+\c@section@level=\count311
 )
-LaTeX Info: Redefining \ref on input line 48.
-LaTeX Info: Redefining \pageref on input line 48.
-LaTeX Info: Redefining \nameref on input line 48.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -712,112 +751,574 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  (section_1.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-LaTeX Font Info:    Calculating math sizes for size <10.70007> on input line 8.
-
+LaTeX Font Info:    Calculating math sizes for size <10.70007> on input line 10
+.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.49> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 8.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 10.
 
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 8.
+(Font)              size <7> substituted on input line 10.
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.35004> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 8.
-
-Underfull \hbox (badness 1365) in paragraph at lines 39--41
-[]$\OT1/cmr/m/n/10.95 (\U/msa/m/n/10.70007 O\OT1/cmr/m/n/10.95 )$ \T2A/cmr/m/it
-/10.95 Убе-ди-тесь в эк-ви-ва-лент-но-сти нера-
- []
-
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 10.
 [6
 
 
 
 ]
-Underfull \hbox (badness 1622) in paragraph at lines 44--45
-[]$\OT1/cmr/m/n/10.95 (\U/msa/m/n/10.70007 O\OT1/cmr/m/n/10.95 )$ \T2A/cmr/m/it
-/10.95 По-ка-жи-те, что для ор-то-го-наль-ных
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 27--31
+[]  
  []
 
 
-Overfull \vbox (6.1485pt too high) has occurred while \output is active []
-
-
-[7]
-<pictures/chapter1_1.jpg, id=99, 379.4175pt x 158.87355pt>
-File: pictures/chapter1_1.jpg Graphic file (type jpg)
-<use pictures/chapter1_1.jpg>
-Package pdftex.def Info: pictures/chapter1_1.jpg  used on input line 112.
-(pdftex.def)             Requested size: 289.36255pt x 121.16695pt.
-
-Overfull \vbox (6.1485pt too high) has occurred while \output is active []
-
-
-[8 <./pictures/chapter1_1.jpg>]
-Underfull \hbox (badness 2165) in paragraph at lines 125--126
-[]\T2A/cmr/m/it/10.95 Разумеется, ве-ще-ствен-ное про-стран-ство пе-ре-во-дит-с
-я в
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 37--41
+[]  
  []
 
-)
-Overfull \vbox (6.1485pt too high) has occurred while \output is active []
 
+Underfull \hbox (badness 1178) in paragraph at lines 44--47
+[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 13.5. \T2A/cmr/m/n
+/10.95 Пусть $\OML/cmm/m/it/10.95 G \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\
+OML/cmm/m/it/10.95 N; \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; P; S\OMS/cmsy
+/m/n/10.95 i$ \T2A/cmr/m/n/10.95 --- КС-
+ []
+
+
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (57.12627pt too wide) in paragraph at lines 75--76
+[] $\OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10
+ ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 A\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OML/cmm/m/it/10 FIRST[]\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 FIRST[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^W\OT1/cmr/m/n/10 
+) \OMS/cmsy/m/n/10 ^^A []\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--86
+[]\T2A/cmr/m/n/10.95 Введјм по-ня-тие таб-ли-цы, управ-ля-ю-щей раз-бо-ром. $\U
+/msa/m/n/10.70007 N$
+ []
+
+
+LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <7.49> not available
+(Font)              size <7> substituted on input line 87.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 87.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 87.
+[8]
+Underfull \hbox (badness 1087) in paragraph at lines 101--102
+[]\T2A/cmr/m/n/10.95 Приведјм ал-го-ритм по-стро-е-ния $\OML/cmm/m/it/10.95 T[]
+$ \T2A/cmr/m/n/10.95 для всех $\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 2 \OML
+/cmm/m/it/10.95 N$ \T2A/cmr/m/n/10.95 и
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 126--127
+\T2A/cmr/bx/n/10 (о по-стро-е-
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 126--127
+\T2A/cmr/bx/n/10 нии управ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\T2A/cmr/bx/n/10 ля-ю-щей
+ []
+
+
+Overfull \hbox (60.28143pt too wide) in paragraph at lines 127--128
+\OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 FIRST[]\OT1/cmr
+/m/n/10.95 (\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 
+X[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A [] [] [] ^^A []\OT1/cmr/m/n/10.
+95 )$\T2A/cmr/m/it/10.95 ,
+ []
+
+
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 125--129
+[]  
+ []
 
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\T2A/cmr/bx/n/10 (об эк-ви-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\T2A/cmr/bx/n/10 ва-лент-ном
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\T2A/cmr/bx/n/10 опре-де-ле-
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 142--143
+[]$\OML/cmm/m/it/10.95 G \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\OML/cmm/m/i
+t/10.95 N; \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; P; S\OMS/cmsy/m/n/10.95 
+i$ \T2A/cmr/m/it/10.95 яв-ля-ет-ся $\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (\
+OML/cmm/m/it/10.95 k\OT1/cmr/m/n/10.95 )$ \T2A/cmr/m/it/10.95 грам-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+\T2A/cmr/m/it/10.95 ма-ти-кой то-гда и толь-ко то-гда, ко-гда
+ []
+
+
+Overfull \hbox (24.86288pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10
+.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS/cm
+sy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ) 
+\OT1/cmr/m/n/10.95 ([] = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$
+ []
+
+
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 139--144
+[]  
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 149--155
+[]\T2A/cmr/m/n/10.95 В част-ном слу-чае для $\OML/cmm/m/it/10.95 k \OT1/cmr/m/n
+/10.95 = 1$\T2A/cmr/m/n/10.95 : $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опр
+е-де-ле-ние 13.8.
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 149--155
+\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/
+10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \OT1
+/cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M \OMS/cmsy/m/n
+/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/c
+mr/m/n/10.95 ^^F)[] : \OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 `[] \OML/cmm/m/
+it/10.95 a^^M\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
+\T2A/cmr/m/n/10.95 где $\OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/
+n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 ^^F)[]$
+ $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 13.9.
+ []
+
+
+Overfull \hbox (28.0448pt too wide) in paragraph at lines 149--155
+\OML/cmm/m/it/10.95 FOLLOW\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cmr/m
+/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \
+OT1/cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M;  \OMS/cm
+sy/m/n/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ 
+\OT1/cmr/m/n/10.95 ^^F)[] : \OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10.95 `[] \OML/
+cmm/m/it/10.95 ^^M^^La\OMS/cmsy/m/n/10.95 g[]\OML/cmm/m/it/10.95 ^^L \OMS/cmsy
+/m/n/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \O
+T1/cmr/m/n/10.95 ^^F)[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]$\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cm
+r/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.9
+5 \OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 (\OML/cmm/m/it
+/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cmr/m/n/10.95 )$\T2
+A/cmr/m/n/10.95 , ес-ли
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 167.
+
+Overfull \hbox (83.63718pt too wide) in paragraph at lines 173--174
+[] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
+` \OML/cmm/m/it/10 X^^L \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/
+10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOL
+LOW\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 FIRST\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L\OT1/cm
+r/m/n/10 ) \OMS/cmsy/m/n/10 n f\OML/cmm/m/it/10 "\OMS/cmsy/m/n/10 g\OT1/cmr/m/n
+/10 )$\T2A/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (204.1518pt too wide) in paragraph at lines 174--175
+[] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
+` \OML/cmm/m/it/10 X[]A \OMS/cmsy/m/n/10 ` \OML/cmm/m/it/10 X^^L[]" \OMS/cmsy
+/m/n/10 2 \OML/cmm/m/it/10 FIRST\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L\OT1/cmr/m
+/n/10 ) : \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/
+n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Underfull \vbox (badness 3148) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 1824) in paragraph at lines 226--227
+[]\T2A/cmr/m/n/10.95 Теперь рас-смот-рим при-мер грам-ма-ти-ки, не яв-ля-ю-щей-
+ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]\T2A/cmr/m/n/10.95 Грамматика $\OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10.95 ` \O
+ML/cmm/m/it/10.95 aS\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 a$\T2A/cmr/m/n/10.
+95 , со-глас-но тео-ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+\T2A/cmr/m/n/10.95 ме 13.4, не яв-ля-ет-ся LL(1)-грамматикой, так
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+\T2A/cmr/m/n/10.95 как $\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 
+(\OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it
+/10.95 a\OMS/cmsy/m/n/10.95 g$ \T2A/cmr/m/n/10.95 и
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 239--239
+\T2A/cmr/m/n/10.95 так как $\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML
+/cmm/m/it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.
+95 aa\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 , $\OML/cmm/m/it/10.95 FIRST[]\OT
+1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.9
+5 f\OML/cmm/m/it/10.95 a\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 , и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--243
+[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 13.2 \T2A/cmr/m/n/10.95 
+По-стро-ить не-$\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (1)$ \T2A/cmr/m/n/10.9
+5 грам-ма-ти-ку.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--243
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--261
+[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 13.3 \T2A/cmr/m/n/10.95 
+По-стро-ить таб-ли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--261
+\T2A/cmr/m/n/10.95 цу для грам-ма-ти-ки $\OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10
+.95 ` \OML/cmm/m/it/10.95 aSbS \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95 "$
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\T2A/cmr/bx/n/10 (об эк-ви-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\T2A/cmr/bx/n/10 ва-лент-ном
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\T2A/cmr/bx/n/10 опре-де-ле-
+ []
+
+
+Overfull \hbox (30.50934pt too wide) in paragraph at lines 272--272
+[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
+/10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
+/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95
+ ) \OT1/cmr/m/n/10.95 ([] = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$ 
+ []
+
+
+Overfull \hbox (127.49495pt too wide) in paragraph at lines 272--272
+[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
+/10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
+/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.9
+5 " \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm
+/m/it/10.95 \OT1/cmr/m/n/10.95 )) \OMS/cmsy/m/n/10.95 ) \OT1/cmr/m/n/10.95 ([]
+ = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$ 
+ []
+
+
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 265--274
+[]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
+ S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
+ S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
+ []
+
+[13]
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.322 			\item $
+                S \vdash_{lm} \underline{aA} \vdash_{lm} \underline{aB} \vda...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.322 			\item $
+                S \vdash_{lm} \underline{aA} \vdash_{lm} \underline{aB} \vda...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.323 			\item $
+                S \vdash_{lm} \underline{aA} \vdash_{lm} \underline{aBC} \vd...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.323 			\item $
+                S \vdash_{lm} \underline{aA} \vdash_{lm} \underline{aBC} \vd...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+[]\T2A/cmr/m/n/10.95 Опишем дей-ствия над кон-фи-гу-ра-ци-я-ми,
+ []
+
+[15] [16] [17] [18] [19] [20] [21]
+Underfull \hbox (badness 1005) in paragraph at lines 694--695
+[]\T2A/cmr/m/n/10.95 Заметим, что дей-ствия \T2A/cmr/bx/n/10.95 call \T2A/cmr/m
+/n/10.95 и \T2A/cmr/bx/n/10.95 return \T2A/cmr/m/n/10.95 ре-а-ли-зу-ют ло-ги-ку
+
+ []
+
+
+Overfull \hbox (3.95784pt too wide) in paragraph at lines 700--731
+ [] 
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 767--769
+[]\T2A/cmr/m/n/10.95 Группируем пра-ви-ла с $\OML/cmm/m/it/10.95 A$ \T2A/cmr/m/
+n/10.95 в ле-вой ча-сти:
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 767--769
+\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 A[]\OMS/cmsy/m
+/n/10.95 j [] j\OML/cmm/m/it/10.95 A[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95
+ ^^L[]\OMS/cmsy/m/n/10.95 j [] j\OML/cmm/m/it/10.95 ^^L[]$\T2A/cmr/m/n/10.95 , 
+где ни-ка-кая из сен-тен-ци-
+ []
+
+[23]
+Underfull \hbox (badness 2073) in paragraph at lines 802--803
+[]\T2A/cmr/m/n/10.95 Преобразование: для пра-вил $\OML/cmm/m/it/10.95 A \OMS/cm
+sy/m/n/10.95 ` \OML/cmm/m/it/10.95 ^^L[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.
+95 ^^L[]$ \T2A/cmr/m/n/10.95 грам-ма-ти-ки
+ []
+
+[24] [25]
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.863 	\item л
+              ибо $A\vdash \alpha, \alpha \in (N\cup{\Sigma})^*$ --- единств...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.863 	\item л
+              ибо $A\vdash \alpha, \alpha \in (N\cup{\Sigma})^*$ --- единств...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.864 	\item л
+              ибо, $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m: \alpha_i \in (N...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.864 	\item л
+              ибо, $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m: \alpha_i \in (N...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (19.87917pt too wide) in paragraph at lines 864--865
+[]\T2A/cmr/m/n/10.95 либо, $\OML/cmm/m/it/10.95 A  \OMS/cmsy/m/n/10.95 ` \OML/c
+mm/m/it/10.95 a[][]\OMS/cmsy/m/n/10.95 j [] j\OML/cmm/m/it/10.95 a[][] \OT1/c
+mr/m/n/10.95 : \OML/cmm/m/it/10.95 [] \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/n/10.95
+ (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 ^^F)[]\OML/cmm
+/m/it/10.95 ; a[] \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.
+95 ; \OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 i \OT1/cmr/m/n/10.95 = 1 [] \OML/
+cmm/m/it/10.95 m$\T2A/cmr/m/n/10.95 ,
+ []
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.865 	\item л
+              ибо $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m|\varepsilon: \alp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\theenumii ->\ralph 
+                    {enumii}
+l.865 	\item л
+              ибо $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m|\varepsilon: \alp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (24.9997pt too wide) in paragraph at lines 865--866
+[]\T2A/cmr/m/n/10.95 либо $\OML/cmm/m/it/10.95 A  \OMS/cmsy/m/n/10.95 ` \OML/cm
+m/m/it/10.95 a[][]\OMS/cmsy/m/n/10.95 j [] j\OML/cmm/m/it/10.95 a[][]\OMS/cms
+y/m/n/10.95 j\OML/cmm/m/it/10.95 " \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 []
+ \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/
+10.95 [ \OT1/cmr/m/n/10.95 ^^F)[]\OML/cmm/m/it/10.95 ; a[] \OMS/cmsy/m/n/10.95 
+2 \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 8\OML/cmm/m/i
+t/10.95 i \OT1/cmr/m/n/10.95 = 1 [] \OML/cmm/m/it/10.95 m$\T2A/cmr/m/n/10.95 ,
+ []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+870.
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.f
+d
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [26])
 \openout2 = `section_2.aux'.
 
  (section_2.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[10
+[27
+
 
 
 
 
 ]
 
-LaTeX Warning: Reference `scaling:3' on page 11 undefined on input line 53.
+LaTeX Warning: Reference `scaling:3' on page 28 undefined on input line 55.
 
 
 Overfull \vbox (6.1485pt too high) has occurred while \output is active []
 
 
-[11])
+[28])
 Overfull \vbox (6.1485pt too high) has occurred while \output is active []
 
 
-[12] (_close.tex
+[29]
+Overfull \vbox (6.1485pt too high) has occurred while \output is active []
+
+
+[30] (_close.tex
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 30.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 30.
-) [13
+) [31
 
 
 ] (main.aux (section_1.aux) (section_2.aux))
@@ -829,53 +1330,61 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A4134193FA0B616840D73E72E96DCB5B;2256.
+(rerunfilecheck)             Checksum: 239E76E26138E12059D88D2A1D39ECD8;2858.
  ) 
 Here is how much of TeX's memory you used:
- 12284 strings out of 478582
- 194697 string characters out of 2841985
- 481268 words of memory out of 3000000
- 30193 multiletter control sequences out of 15000+600000
- 496831 words of font info for 103 fonts, out of 8000000 for 9000
+ 13156 strings out of 478582
+ 208597 string characters out of 2841985
+ 500520 words of memory out of 3000000
+ 30968 multiletter control sequences out of 15000+600000
+ 507687 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,8n,76p,717b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,14n,76p,1191b,499s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
 arm1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\labx1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/p
-k/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTe
-X\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\ICPC-NB-XX\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICP
-C-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\
-Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm08
-00.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
-00\labx1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\lati0900.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
-iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\ICPC-NB-XX\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\ICPC-NB-
-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Users/
-ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi5.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ICPC-NB-XX/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/ICPC-NB-XX/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.p
-fb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr7.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/ICPC-NB-XX/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/IC
-PC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam
+/dpi600\latt1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\labi1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiK
+TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\ICPC-NB-XX\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\ICPC-NB-XX
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\I
+CPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C
+:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm10
+95.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\labx1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\ICPC-NB-XX\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\ICPC-N
+B-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0900.pk> <C:\Use
+rs\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk
+> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\lati0800.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Users/ICPC-NB-XX/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ICPC-NB-XX/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ICPC
+-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
+C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi7.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ICPC-NB-XX/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ICPC-N
+B-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/
+Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/ICPC-NB-XX/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/IC
+PC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm
 10.pfb>
-Output written on main.pdf (13 pages, 888775 bytes).
+Output written on main.pdf (31 pages, 532850 bytes).
 PDF statistics:
- 863 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1241 PDF objects out of 1440 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
