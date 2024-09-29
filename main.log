@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -806,18 +806,20 @@ Overfull \hbox (1.2378pt too wide) in paragraph at lines 37--41
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 44--47
-[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 13.5. \T2A/cmr/m/n
-/10.95 Пусть $\OML/cmm/m/it/10.95 G \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\
-OML/cmm/m/it/10.95 N; \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; P; S\OMS/cmsy
-/m/n/10.95 i$ \T2A/cmr/m/n/10.95 --- КС-
+LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <7.49> not available
+(Font)              size <7> substituted on input line 48.
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 46--51
+\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/
+n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 ! \OMS/cmsy/m/n/10.95 2 \O
+T1/cmr/m/n/10.95 ^^F[] \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95  \OMS/cmsy/m/
+n/10.95 ![] \OML/cmm/m/it/10.95 ![]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 !\O
+MS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95 < k$ \T2A/cmr/m/n/10.95 ли-бо
  []
 
-
-Underfull \vbox (badness 2717) has occurred while \output is active []
-
- [7]
-Overfull \hbox (57.12627pt too wide) in paragraph at lines 75--76
+[7]
+Overfull \hbox (57.12627pt too wide) in paragraph at lines 84--85
 [] $\OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10
  ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 A\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OML/cmm/m/it/10 FIRST[]\OT1/cmr/m/n/10
@@ -826,43 +828,55 @@ Overfull \hbox (57.12627pt too wide) in paragraph at lines 75--76
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
 []\T2A/cmr/m/n/10.95 Введјм по-ня-тие таб-ли-цы, управ-ля-ю-щей раз-бо-ром. $\U
 /msa/m/n/10.70007 N$
  []
 
 
-LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <7.49> not available
-(Font)              size <7> substituted on input line 87.
+Underfull \hbox (badness 3386) in paragraph at lines 92--95
+\T2A/cmr/bx/n/10.95 Опре-де-ле-ние 6. \T2A/cmr/m/n/10.95 Управ-ля-ю-щая таб-ли-
+ца для грам-ма-ти-ки
+ []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 87.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 96.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 87.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 96.
 [8]
-Underfull \hbox (badness 1087) in paragraph at lines 101--102
+Underfull \hbox (badness 1087) in paragraph at lines 110--111
 []\T2A/cmr/m/n/10.95 Приведјм ал-го-ритм по-стро-е-ния $\OML/cmm/m/it/10.95 T[]
 $ \T2A/cmr/m/n/10.95 для всех $\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 2 \OML
 /cmm/m/it/10.95 N$ \T2A/cmr/m/n/10.95 и
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 126--127
-\T2A/cmr/bx/n/10 (о по-стро-е-
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]\T2A/cmr/bx/n/10 Теорема
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 126--127
-\T2A/cmr/bx/n/10 нии управ-
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\T2A/cmr/bx/n/10 3. (о по-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\T2A/cmr/bx/n/10 стро-е-нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\T2A/cmr/bx/n/10 управ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 \T2A/cmr/bx/n/10 ля-ю-щей
  []
 
 
-Overfull \hbox (60.28143pt too wide) in paragraph at lines 127--128
+Overfull \hbox (60.28143pt too wide) in paragraph at lines 137--138
 \OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 FIRST[]\OT1/cmr
 /m/n/10.95 (\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 
 X[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A [] [] [] ^^A []\OT1/cmr/m/n/10.
@@ -870,27 +884,32 @@ X[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A [] [] [] ^^A []\OT1/cmr/m/n/10.
  []
 
 
-Overfull \hbox (1.2378pt too wide) in paragraph at lines 125--129
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 134--139
 []  
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+[]\T2A/cmr/bx/n/10 Лемма 4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 \T2A/cmr/bx/n/10 (об эк-ви-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 \T2A/cmr/bx/n/10 ва-лент-ном
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 \T2A/cmr/bx/n/10 опре-де-ле-
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 142--143
+Underfull \hbox (badness 5726) in paragraph at lines 152--153
 []$\OML/cmm/m/it/10.95 G \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\OML/cmm/m/i
 t/10.95 N; \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; P; S\OMS/cmsy/m/n/10.95 
 i$ \T2A/cmr/m/it/10.95 яв-ля-ет-ся $\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (\
@@ -898,12 +917,12 @@ OML/cmm/m/it/10.95 k\OT1/cmr/m/n/10.95 )$ \T2A/cmr/m/it/10.95 грам-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 \T2A/cmr/m/it/10.95 ма-ти-кой то-гда и толь-ко то-гда, ко-гда
  []
 
 
-Overfull \hbox (24.86288pt too wide) in paragraph at lines 142--143
+Overfull \hbox (24.86288pt too wide) in paragraph at lines 152--153
 \OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10
 .95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS/cm
 sy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ) 
@@ -911,19 +930,19 @@ sy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 )
  []
 
 
-Overfull \hbox (1.2378pt too wide) in paragraph at lines 139--144
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 149--154
 []  
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 149--155
+Underfull \hbox (badness 3029) in paragraph at lines 159--165
 []\T2A/cmr/m/n/10.95 В част-ном слу-чае для $\OML/cmm/m/it/10.95 k \OT1/cmr/m/n
 /10.95 = 1$\T2A/cmr/m/n/10.95 : $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опр
-е-де-ле-ние 13.8.
+е-де-ле-ние 8.
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 149--155
+Underfull \hbox (badness 1178) in paragraph at lines 159--165
 \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/
 10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \OT1
 /cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M \OMS/cmsy/m/n
@@ -933,14 +952,14 @@ it/10.95 a^^M\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--155
+Underfull \hbox (badness 10000) in paragraph at lines 159--165
 \T2A/cmr/m/n/10.95 где $\OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/
 n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 ^^F)[]$
- $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 13.9.
+ $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 9.
  []
 
 
-Overfull \hbox (28.0448pt too wide) in paragraph at lines 149--155
+Overfull \hbox (28.0448pt too wide) in paragraph at lines 159--165
 \OML/cmm/m/it/10.95 FOLLOW\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cmr/m
 /n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \
 OT1/cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M;  \OMS/cm
@@ -952,7 +971,7 @@ T1/cmr/m/n/10.95 ^^F)[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 []$\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cm
 r/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.9
 5 \OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 (\OML/cmm/m/it
@@ -961,9 +980,9 @@ A/cmr/m/n/10.95 , ес-ли
  []
 
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 167.
+put line 177.
 
-Overfull \hbox (83.63718pt too wide) in paragraph at lines 173--174
+Overfull \hbox (83.63718pt too wide) in paragraph at lines 183--184
 [] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
 ` \OML/cmm/m/it/10 X^^L \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/
 10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOL
@@ -974,7 +993,7 @@ r/m/n/10 ) \OMS/cmsy/m/n/10 n f\OML/cmm/m/it/10 "\OMS/cmsy/m/n/10 g\OT1/cmr/m/n
  []
 
 
-Overfull \hbox (204.1518pt too wide) in paragraph at lines 174--175
+Overfull \hbox (204.1518pt too wide) in paragraph at lines 184--185
 [] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
 ` \OML/cmm/m/it/10 X[]A \OMS/cmsy/m/n/10 ` \OML/cmm/m/it/10 X^^L[]" \OMS/cmsy
 /m/n/10 2 \OML/cmm/m/it/10 FIRST\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L\OT1/cmr/m
@@ -984,37 +1003,31 @@ n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it
 0 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10 )$ 
  []
 
-
-Underfull \vbox (badness 1609) has occurred while \output is active []
-
- [10]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
-
-Underfull \vbox (badness 3148) has occurred while \output is active []
-
- [11]
-Underfull \hbox (badness 1824) in paragraph at lines 226--227
+[11]
+Underfull \hbox (badness 1824) in paragraph at lines 236--237
 []\T2A/cmr/m/n/10.95 Теперь рас-смот-рим при-мер грам-ма-ти-ки, не яв-ля-ю-щей-
 ся
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []\T2A/cmr/m/n/10.95 Грамматика $\OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10.95 ` \O
 ML/cmm/m/it/10.95 aS\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 a$\T2A/cmr/m/n/10.
 95 , со-глас-но тео-ре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
-\T2A/cmr/m/n/10.95 ме 13.4, не яв-ля-ет-ся LL(1)-грамматикой, так
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+\T2A/cmr/m/n/10.95 ме 4, не яв-ля-ет-ся LL(1)-грамматикой, так
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 \T2A/cmr/m/n/10.95 как $\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m
 /it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 
 (\OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it
@@ -1022,7 +1035,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 239--239
+Underfull \hbox (badness 1062) in paragraph at lines 249--249
 \T2A/cmr/m/n/10.95 так как $\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML
 /cmm/m/it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.
 95 aa\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 , $\OML/cmm/m/it/10.95 FIRST[]\OT
@@ -1031,49 +1044,42 @@ Underfull \hbox (badness 1062) in paragraph at lines 239--239
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--243
-[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 13.2 \T2A/cmr/m/n/10.95 
-По-стро-ить не-$\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (1)$ \T2A/cmr/m/n/10.9
-5 грам-ма-ти-ку.
+Underfull \hbox (badness 10000) in paragraph at lines 239--253
+[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 2 \T2A/cmr/m/n/10.95 По-
+стро-ить не-$\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (1)$ \T2A/cmr/m/n/10.95 г
+рам-ма-ти-ку.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--243
+Underfull \hbox (badness 10000) in paragraph at lines 239--253
 [][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 244--261
-[]$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 13.3 \T2A/cmr/m/n/10.95 
-По-стро-ить таб-ли-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 244--261
-\T2A/cmr/m/n/10.95 цу для грам-ма-ти-ки $\OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10
-.95 ` \OML/cmm/m/it/10.95 aSbS \OMS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95 "$
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[]\T2A/cmr/bx/n/10 Лемма 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 \T2A/cmr/bx/n/10 (об эк-ви-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 \T2A/cmr/bx/n/10 ва-лент-ном
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 \T2A/cmr/bx/n/10 опре-де-ле-
  []
 
 
-Overfull \hbox (30.50934pt too wide) in paragraph at lines 272--272
+Overfull \hbox (30.50934pt too wide) in paragraph at lines 282--282
 []$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
 /10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
 /cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95
@@ -1081,7 +1087,7 @@ Overfull \hbox (30.50934pt too wide) in paragraph at lines 272--272
  []
 
 
-Overfull \hbox (127.49495pt too wide) in paragraph at lines 272--272
+Overfull \hbox (127.49495pt too wide) in paragraph at lines 282--282
 []$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
 /10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
 /cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.9
@@ -1091,52 +1097,52 @@ Overfull \hbox (127.49495pt too wide) in paragraph at lines 272--272
  []
 
 
-Overfull \hbox (1.2378pt too wide) in paragraph at lines 265--274
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 275--284
 []  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
  S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
  S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
  []
 
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 []\T2A/cmr/m/n/10.95 Опишем дей-ствия над кон-фи-гу-ра-ци-я-ми,
  []
 
 [15] [16] [17] [18] [19] [20] [21]
-Underfull \hbox (badness 1005) in paragraph at lines 694--695
+Underfull \hbox (badness 1005) in paragraph at lines 704--705
 []\T2A/cmr/m/n/10.95 Заметим, что дей-ствия \T2A/cmr/bx/n/10.95 call \T2A/cmr/m
 /n/10.95 и \T2A/cmr/bx/n/10.95 return \T2A/cmr/m/n/10.95 ре-а-ли-зу-ют ло-ги-ку
 
  []
 
 
-Overfull \hbox (3.95784pt too wide) in paragraph at lines 700--731
+Overfull \hbox (3.95784pt too wide) in paragraph at lines 710--741
  [] 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 767--769
+Underfull \hbox (badness 10000) in paragraph at lines 777--779
 []\T2A/cmr/m/n/10.95 Группируем пра-ви-ла с $\OML/cmm/m/it/10.95 A$ \T2A/cmr/m/
 n/10.95 в ле-вой ча-сти:
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 767--769
+Underfull \hbox (badness 1205) in paragraph at lines 777--779
 \OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 A[]\OMS/cmsy/m
 /n/10.95 j [] j\OML/cmm/m/it/10.95 A[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95
  ^^L[]\OMS/cmsy/m/n/10.95 j [] j\OML/cmm/m/it/10.95 ^^L[]$\T2A/cmr/m/n/10.95 , 
@@ -1144,7 +1150,7 @@ Underfull \hbox (badness 1205) in paragraph at lines 767--769
  []
 
 [23]
-Underfull \hbox (badness 2073) in paragraph at lines 802--803
+Underfull \hbox (badness 2073) in paragraph at lines 812--813
 []\T2A/cmr/m/n/10.95 Преобразование: для пра-вил $\OML/cmm/m/it/10.95 A \OMS/cm
 sy/m/n/10.95 ` \OML/cmm/m/it/10.95 ^^L[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.
 95 ^^L[]$ \T2A/cmr/m/n/10.95 грам-ма-ти-ки
@@ -1227,9 +1233,9 @@ Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 msy9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/symbols/msam10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (28 pages, 478185 bytes).
+Output written on main.pdf (28 pages, 479143 bytes).
 PDF statistics:
- 1151 PDF objects out of 1200 (max. 8388607)
+ 1152 PDF objects out of 1200 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
