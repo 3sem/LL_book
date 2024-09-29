@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -622,119 +622,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
-
-
-! LaTeX Error: Command \sh already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \ch already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \tg already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \ctg already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \arctg already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \arcctg already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \cth already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \cosec already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 LaTeX Info: Redefining \th on input line 48.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
@@ -941,20 +828,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 23929F2F46AB017D0F6184F1C1C9E48C;2136
-(rerunfilecheck)             After:  AA742D99383F2F44B57BBC0B9399C537;2128.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A4134193FA0B616840D73E72E96DCB5B;2256.
  ) 
 Here is how much of TeX's memory you used:
- 12279 strings out of 478582
- 194673 string characters out of 2841985
- 481298 words of memory out of 3000000
- 30188 multiletter control sequences out of 15000+600000
+ 12284 strings out of 478582
+ 194697 string characters out of 2841985
+ 481268 words of memory out of 3000000
+ 30193 multiletter control sequences out of 15000+600000
  496831 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,8n,76p,717b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -992,9 +873,9 @@ grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/ICPC-NB-XX/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/IC
 PC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam
 10.pfb>
-Output written on main.pdf (13 pages, 886575 bytes).
+Output written on main.pdf (13 pages, 888775 bytes).
 PDF statistics:
- 858 PDF objects out of 1000 (max. 8388607)
+ 863 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
