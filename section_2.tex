@@ -5,7 +5,7 @@
 \begin{enumerate}
 	\item \textbf{a)} Приведите пример $\text{LL}(0)$ грамматики \\
 	\textbf{b)} Приведите пример $\text{LL}(2)$, но не $\text{LL}(1)$ грамматики.\\
-	\textbf{с)} Приведите не $\text{LL}(2)$ грамматики.
+	\textbf{с*)} Приведите пример не $\text{LL}(2)$ грамматики.
 	\item Для грамматик из задачи 1 постройте LL-анализаторы и разберите слово длины хотя бы 5 символов.
 	\item 	Является ли грамматика $G$ LL(1) грамматикой:
 	\begin{align*}
@@ -30,11 +30,11 @@
 	%В виду того, что $FIRST(A)\cap{FIRST(B)} \neq %\varnothing$, нельзя однозначно произвести %подчёркнутый шаг левого порождения, и %рекурсивный спуск неприменим.
 	\item{ В литературе по рекурсивному спуску иногда приводят так называемый канонический вид грамматики для рекурсивного спуска:
 	
-	{\bf$\blacktriangle$ Определение 13.10.}\label{canonical_rd} Грамматика $G = \langle \Sigma, N, S, P \rangle$ и $\omega \in \Sigma^{*}$ называется грамматикой в \textit{каноническом виде для рекурсивного спуска}, если её правила удовлетворяют следующему виду:
+	{\bf$\blacktriangle$ Определение.}\label{canonical_rd} Грамматика $G = \langle \Sigma, N, S, P \rangle$ и $\omega \in \Sigma^{*}$ называется грамматикой в \textit{каноническом виде для рекурсивного спуска}, если её правила удовлетворяют одному из следующих видов:
 	\begin{itemize}
-		\item либо $A\vdash \alpha, \alpha \in (N\cup{\Sigma})^*$ --- единственное правило вывода для $A \in P$ 
-		\item либо, $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m: \alpha_i \in (N\cup{\Sigma})^* , a_i \in \Sigma,  \forall i=1\dots{m}$, и $\alpha_i \neq \alpha_j$, если $i \neq j$
-		\item либо $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m|\varepsilon: \alpha_i \in (N\cup{\Sigma})^* , a_i \in \Sigma,  \forall i=1\dots{m}$, и $\alpha_i \neq \alpha_j$, если $i \neq j$, и $FIRST(A)\cap{FOLLOW(A)}=\varnothing$.
+		\item $A\vdash \alpha, \alpha \in (N\cup{\Sigma})^*$ --- единственное правило вывода для $A \in P$ 
+		\item $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m: \alpha_i \in (N\cup{\Sigma})^* , a_i \in \Sigma,  \forall i=1\dots{m}$, и $\alpha_i \neq \alpha_j$, если $i \neq j$
+		\item $A\ \vdash a_1\alpha_1|\dots|a_m\alpha_m|\varepsilon: \alpha_i \in (N\cup{\Sigma})^* , a_i \in \Sigma,  \forall i=1\dots{m}$, и $\alpha_i \neq \alpha_j$, если $i \neq j$, и $FIRST(A)\cap{FOLLOW(A)}=\varnothing$.
 	\end{itemize}
 	Докажите, что грамматики, заданные определением, являются LL(1).
 	
