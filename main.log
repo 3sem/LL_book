@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,30 +640,30 @@ d-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box55
-) (main.aux)
+) (main.aux (section_1.aux) (section_2.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Info: Redefining \th on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Info: Redefining \th on input line 74.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
@@ -690,7 +690,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 73.
+Package hyperref Info: Link coloring OFF on input line 74.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
 ty
@@ -706,9 +706,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count311
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -720,10 +720,27 @@ Overfull \hbox (2.06598pt too wide) in paragraph at lines 119--120
 [] \T2A/cmr/m/n/8 (на-ци-о-наль-ный ис-сле-до-ва-тель-ский уни-вер-си-тет)>>,
  []
 
-[2])
+[2]) (main.toc
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
 
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -750,11 +767,6 @@ LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.49> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.49> not available
 (Font)              size <7> substituted on input line 10.
 
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
-.
-(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
 
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.49> not available
 (Font)              size <7> substituted on input line 10.
@@ -779,17 +791,6 @@ LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.49> not available
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.35004> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 10.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
-
-(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
-
-
-(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 [6
 
 
@@ -812,10 +813,6 @@ OML/cmm/m/it/10.95 N; \OT1/cmr/m/n/10.95 ^^F\OML/cmm/m/it/10.95 ; P; S\OMS/cmsy
 /m/n/10.95 i$ \T2A/cmr/m/n/10.95 --- КС-
  []
 
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 54.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 54.
 
 Underfull \vbox (badness 2717) has occurred while \output is active []
 
@@ -991,10 +988,6 @@ n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it
 Underfull \vbox (badness 1609) has occurred while \output is active []
 
  [10]
-
-LaTeX Warning: Reference `algo_follow' on page 11 undefined on input line 178.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
@@ -1229,9 +1222,6 @@ y/m/n/10.95 j\OML/cmm/m/it/10.95 " \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 []
 t/10.95 i \OT1/cmr/m/n/10.95 = 1 [] \OML/cmm/m/it/10.95 m$\T2A/cmr/m/n/10.95 ,
  []
 
-
-LaTeX Warning: Reference `canonical_rd' on page 26 undefined on input line 41.
-
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 42.
 
@@ -1255,20 +1245,14 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.49pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B98797CD11C1F6FFA531C386AA459E5F;2587.
  ) 
 Here is how much of TeX's memory you used:
- 13125 strings out of 478582
- 208032 string characters out of 2841985
- 498339 words of memory out of 3000000
- 30957 multiletter control sequences out of 15000+600000
+ 13133 strings out of 478582
+ 208442 string characters out of 2841985
+ 500285 words of memory out of 3000000
+ 30959 multiletter control sequences out of 15000+600000
  507687 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,14n,76p,1191b,499s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1310,9 +1294,9 @@ Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 msy9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/symbols/msam10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (28 pages, 480886 bytes).
+Output written on main.pdf (28 pages, 481686 bytes).
 PDF statistics:
- 1156 PDF objects out of 1200 (max. 8388607)
+ 1163 PDF objects out of 1200 (max. 8388607)
  80 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
