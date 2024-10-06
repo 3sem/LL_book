@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  29 SEP 2024 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  6 OCT 2024 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,64 +621,99 @@ Package: nccboxes 2005/02/07 v1.2 Additional Boxes (NCC)
 \NCC@strutbox=\box54
 \NCC@strutsep=\dimen157
 )
-\c@theorem=\count293
-\c@lemma=\count294
-\c@corollary=\count295
-\c@definition=\count296
-\c@property=\count297
-\c@example=\count298
-\c@remark=\count299
-\c@proposition=\count300
-\c@hypothesis=\count301
-\c@exersize=\count302
- (alex.sty heading names, headings, captions, theorems, running heads,
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
+sty
+\lst@mode=\count293
+\lst@gtempboxa=\box55
+\lst@token=\toks28
+\lst@length=\count294
+\lst@currlwidth=\dimen158
+\lst@column=\count295
+\lst@pos=\count296
+\lst@lostspace=\dimen159
+\lst@width=\dimen160
+\lst@newlines=\count297
+\lst@lineno=\count298
+\lst@maxwidth=\dimen161
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.s
+ty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count299
+\lst@skipnumbers=\count300
+\lst@framebox=\box56
+)
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
+cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\c@theorem=\count301
+\c@lemma=\count302
+\c@corollary=\count303
+\c@definition=\count304
+\c@property=\count305
+\c@example=\count306
+\c@remark=\count307
+\c@proposition=\count308
+\c@hypothesis=\count309
+\c@exersize=\count310
+
+(C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.
+sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (alex.sty heading names, headings, captions, theorems, running heads,
 appendix, \output,
-\c@rlistctr=\count303
+\c@rlistctr=\count311
  quotes,)
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
-\l__pdf_internal_box=\box55
-) (main.aux (section_1.aux) (section_2.aux))
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box57
+) (main.aux (section_1.aux) (section_2.aux
+
+LaTeX Warning: Label `lst:code_example' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Info: Redefining \th on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Info: Redefining \th on input line 75.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen158
-\scratchbox=\box56
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen159
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count313
+\scratchdimen=\dimen162
+\scratchbox=\box58
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen163
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty
@@ -690,7 +725,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 74.
+Package hyperref Info: Link coloring OFF on input line 75.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
 ty
@@ -704,15 +739,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+\c@lstlisting=\count320
  (_title.tex [1
 
 {C:/Users/ICPC-NB-XX/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1173,10 +1209,32 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 
 
 
-]) [27] (_close.tex
+]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 77.
+ (llparsing.py [27]
+Overfull \hbox (15.00471pt too wide) in paragraph at lines 30--31
+[][][][][][][][][][][][][][][] 
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+(lltable.py
+Overfull \hbox (9.90591pt too wide) in paragraph at lines 25--26
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.90591pt too wide) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)) [29] (_close.tex
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 30.
-) [28
+) [30
 
 
 ] (main.aux (section_1.aux) (section_2.aux))
@@ -1184,58 +1242,62 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.49pt have occurred.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B98797CD11C1F6FFA531C386AA459E5F;2587.
+(rerunfilecheck)             Checksum: E38CD590CDA28F8B39B6D61B7258E29D;3527.
  ) 
 Here is how much of TeX's memory you used:
- 13131 strings out of 478582
- 208428 string characters out of 2841985
- 500285 words of memory out of 3000000
- 30959 multiletter control sequences out of 15000+600000
- 507687 words of font info for 132 fonts, out of 8000000 for 9000
+ 15046 strings out of 478582
+ 234269 string characters out of 2841985
+ 741012 words of memory out of 3000000
+ 32756 multiletter control sequences out of 15000+600000
+ 508507 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,14n,76p,1191b,499s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,14n,76p,1191b,2101s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
 arm1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\latt1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labi1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiK
-TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\ICPC-NB-XX\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\ICPC-NB-XX
-\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\I
-CPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C
-:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm10
+/dpi600\labx0800.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\latt1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\labi1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ICPC-NB-XX\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\ICPC-NB-XX
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\I
+CPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C
+:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx10
 95.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
-00\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
-iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\ICPC-NB-XX\AppD
-ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\ICPC-N
-B-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0900.pk> <C:\Use
-rs\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk
+00\larm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
+iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\ICPC-NB-XX\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\ICPC-N
+B-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Use
+rs\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0900.pk
 > <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-rm1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\lati0800.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\labx1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Users/ICPC-NB-XX/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ICPC-NB-XX/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ICPC-
-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
-:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmmi9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ICPC-NB-XX/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ICPC-NB
--XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
-Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/symbols/msam10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (28 pages, 479143 bytes).
+rm0900.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\larm1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\lati0800.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX
+\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk><C:/Users/ICPC-NB-XX/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ICPC-NB-X
+X/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Us
+ers/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ICPC-NB-XX/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ICPC-NB-XX/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
+s/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/symbols/msam10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (30 pages, 519514 bytes).
 PDF statistics:
- 1152 PDF objects out of 1200 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1353 PDF objects out of 1440 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
