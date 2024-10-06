@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  6 OCT 2024 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.2)  6 OCT 2024 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -671,11 +671,7 @@ d-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box57
-) (main.aux (section_1.aux) (section_2.aux
-
-LaTeX Warning: Label `lst:code_example' multiply defined.
-
-))
+) (main.aux (section_1.aux) (section_2.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
@@ -757,22 +753,22 @@ Overfull \hbox (2.06598pt too wide) in paragraph at lines 116--117
  []
 
 [2]) (main.toc
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 4.
 
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -782,9 +778,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [3
 
-] (intro.tex [4
-
-]) [5]
+]
 \openout2 = `section_1.aux'.
 
  (section_1.tex
@@ -827,7 +821,8 @@ LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.49> not available
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.35004> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 10.
-[6
+[4
+
 
 
 
@@ -854,77 +849,63 @@ n/10.95 ![] \OML/cmm/m/it/10.95 ![]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 !\O
 MS/cmsy/m/n/10.95 j \OML/cmm/m/it/10.95 < k$ \T2A/cmr/m/n/10.95 ли-бо
  []
 
-[7]
-Overfull \hbox (57.12627pt too wide) in paragraph at lines 84--85
-[] $\OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10
- ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
-0 A\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OML/cmm/m/it/10 FIRST[]\OT1/cmr/m/n/10
- (\OML/cmm/m/it/10 FIRST[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^W\OT1/cmr/m/n/10 
-) \OMS/cmsy/m/n/10 ^^A []\OT1/cmr/m/n/10 )$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--95
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 []\T2A/cmr/m/n/10.95 Введјм по-ня-тие таб-ли-цы, управ-ля-ю-щей раз-бо-ром. $\U
 /msa/m/n/10.70007 N$
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 92--95
+Underfull \hbox (badness 3386) in paragraph at lines 93--96
 \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 6. \T2A/cmr/m/n/10.95 Управ-ля-ю-щая таб-ли-
 ца для грам-ма-ти-ки
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 96.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 96.
-[8]
-Underfull \hbox (badness 1087) in paragraph at lines 110--111
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 97.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 1087) in paragraph at lines 111--112
 []\T2A/cmr/m/n/10.95 Приведјм ал-го-ритм по-стро-е-ния $\OML/cmm/m/it/10.95 T[]
 $ \T2A/cmr/m/n/10.95 для всех $\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 2 \OML
 /cmm/m/it/10.95 N$ \T2A/cmr/m/n/10.95 и
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 []\T2A/cmr/bx/n/10 Теорема
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/cmr/bx/n/10 3. (о по-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/cmr/bx/n/10 стро-е-нии
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/cmr/bx/n/10 управ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/cmr/bx/n/10 ля-ю-щей
  []
 
 
-Overfull \hbox (60.28143pt too wide) in paragraph at lines 137--138
-\OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 FIRST[]\OT1/cmr
-/m/n/10.95 (\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 
-X[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A [] [] [] ^^A []\OT1/cmr/m/n/10.
-95 )$\T2A/cmr/m/it/10.95 ,
- []
-
-
-Overfull \hbox (1.2378pt too wide) in paragraph at lines 134--139
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 135--139
 []  
  []
 
-[9]
+
 Underfull \hbox (badness 10000) in paragraph at lines 150--151
 []\T2A/cmr/bx/n/10 Лемма 4
  []
@@ -958,11 +939,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--153
  []
 
 
-Overfull \hbox (24.86288pt too wide) in paragraph at lines 152--153
+Overfull \hbox (9.24063pt too wide) in paragraph at lines 152--153
 \OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10
 .95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS/cm
 sy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ) 
-\OT1/cmr/m/n/10.95 ([] = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$
+\OT1/cmr/m/n/10.95 ([] =$
  []
 
 
@@ -970,44 +951,8 @@ Overfull \hbox (1.2378pt too wide) in paragraph at lines 149--154
 []  
  []
 
-
-Underfull \hbox (badness 3029) in paragraph at lines 159--165
-[]\T2A/cmr/m/n/10.95 В част-ном слу-чае для $\OML/cmm/m/it/10.95 k \OT1/cmr/m/n
-/10.95 = 1$\T2A/cmr/m/n/10.95 : $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опр
-е-де-ле-ние 8.
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 159--165
-\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/
-10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \OT1
-/cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M \OMS/cmsy/m/n
-/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/c
-mr/m/n/10.95 ^^F)[] : \OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 `[] \OML/cmm/m/
-it/10.95 a^^M\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--165
-\T2A/cmr/m/n/10.95 где $\OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/
-n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 ^^F)[]$
- $\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 Опре-де-ле-ние 9.
- []
-
-
-Overfull \hbox (28.0448pt too wide) in paragraph at lines 159--165
-\OML/cmm/m/it/10.95 FOLLOW\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cmr/m
-/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 2 \
-OT1/cmr/m/n/10.95 ^^F \OMS/cmsy/m/n/10.95 j 9\OML/cmm/m/it/10.95 ^^M;  \OMS/cm
-sy/m/n/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ 
-\OT1/cmr/m/n/10.95 ^^F)[] : \OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10.95 `[] \OML/
-cmm/m/it/10.95 ^^M^^La\OMS/cmsy/m/n/10.95 g[]\OML/cmm/m/it/10.95 ^^L \OMS/cmsy
-/m/n/10.95 2 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 [ \O
-T1/cmr/m/n/10.95 ^^F)[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 []$\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^L\OT1/cm
 r/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.9
 5 \OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 [ \OT1/cmr/m/n/10.95 (\OML/cmm/m/it
@@ -1016,54 +961,32 @@ A/cmr/m/n/10.95 , ес-ли
  []
 
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 177.
+put line 179.
 
-Overfull \hbox (83.63718pt too wide) in paragraph at lines 183--184
-[] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
-` \OML/cmm/m/it/10 X^^L \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/
-10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOL
-LOW\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OT1
-/cmr/m/n/10 (\OML/cmm/m/it/10 FIRST\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L\OT1/cm
-r/m/n/10 ) \OMS/cmsy/m/n/10 n f\OML/cmm/m/it/10 "\OMS/cmsy/m/n/10 g\OT1/cmr/m/n
-/10 )$\T2A/cmr/m/n/10 . 
- []
-
-
-Overfull \hbox (204.1518pt too wide) in paragraph at lines 184--185
-[] \T2A/cmr/m/n/10 Для всех пра-вил ви-да $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 
-` \OML/cmm/m/it/10 X[]A \OMS/cmsy/m/n/10 ` \OML/cmm/m/it/10 X^^L[]" \OMS/cmsy
-/m/n/10 2 \OML/cmm/m/it/10 FIRST\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L\OT1/cmr/m
-/n/10 ) : \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/
-n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/10 (\OML/cmm/m/it
-/10 X\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 [ \OML/cmm/m/it/10 FOLLOW\OT1/cmr/m/n/1
-0 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10 )$ 
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-[11]
-Underfull \hbox (badness 1824) in paragraph at lines 236--237
+[9]
+Underfull \hbox (badness 1824) in paragraph at lines 240--241
 []\T2A/cmr/m/n/10.95 Теперь рас-смот-рим при-мер грам-ма-ти-ки, не яв-ля-ю-щей-
 ся
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []\T2A/cmr/m/n/10.95 Грамматика $\OML/cmm/m/it/10.95 S \OMS/cmsy/m/n/10.95 ` \O
 ML/cmm/m/it/10.95 aS\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 a$\T2A/cmr/m/n/10.
 95 , со-глас-но тео-ре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 \T2A/cmr/m/n/10.95 ме 4, не яв-ля-ет-ся LL(1)-грамматикой, так
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 \T2A/cmr/m/n/10.95 как $\OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm/m
 /it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 
 (\OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it
@@ -1071,7 +994,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 249--249
+Underfull \hbox (badness 1062) in paragraph at lines 253--253
 \T2A/cmr/m/n/10.95 так как $\OML/cmm/m/it/10.95 FIRST[]\OT1/cmr/m/n/10.95 (\OML
 /cmm/m/it/10.95 aS\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.
 95 aa\OMS/cmsy/m/n/10.95 g$\T2A/cmr/m/n/10.95 , $\OML/cmm/m/it/10.95 FIRST[]\OT
@@ -1080,119 +1003,116 @@ Underfull \hbox (badness 1062) in paragraph at lines 249--249
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--253
+Underfull \hbox (badness 10000) in paragraph at lines 243--257
 []$\U/msa/m/n/10.70007 N$ \T2A/cmr/bx/n/10.95 За-да-ча 2 \T2A/cmr/m/n/10.95 По-
 стро-ить не-$\OML/cmm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (1)$ \T2A/cmr/m/n/10.95 г
 рам-ма-ти-ку.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--253
+Underfull \hbox (badness 10000) in paragraph at lines 243--257
 [][][]
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 []\T2A/cmr/bx/n/10 Лемма 5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T2A/cmr/bx/n/10 (об эк-ви-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T2A/cmr/bx/n/10 ва-лент-ном
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \T2A/cmr/bx/n/10 опре-де-ле-
  []
 
 
-Overfull \hbox (30.50934pt too wide) in paragraph at lines 282--282
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
 /10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
 /cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95
- ) \OT1/cmr/m/n/10.95 ([] = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$ 
+ )$
  []
 
 
-Overfull \hbox (127.49495pt too wide) in paragraph at lines 282--282
-[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n
-/10.95 ` \OML/cmm/m/it/10.95 \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^L \OMS
-/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 P \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.9
-5 " \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 FIRST\OT1/cmr/m/n/10.95 (\OML/cmm
-/m/it/10.95 \OT1/cmr/m/n/10.95 )) \OMS/cmsy/m/n/10.95 ) \OT1/cmr/m/n/10.95 ([]
- = \U/msb/m/n/10.70007 ?\OT1/cmr/m/n/10.95 )$ 
- []
-
-
-Overfull \hbox (1.2378pt too wide) in paragraph at lines 275--284
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 279--288
 []  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 []\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
  S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 []\T2A/cmr/m/n/10.95 Но грам-ма-ти-ка со-дер-жит пра-ви-ло $\OML/cmm/m/it/10.95
  S \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 "$\T2A/cmr/m/n/10.95 , и
  []
 
-[13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
 []\T2A/cmr/m/n/10.95 Опишем дей-ствия над кон-фи-гу-ра-ци-я-ми,
  []
 
-[15] [16] [17] [18] [19] [20] [21]
-Underfull \hbox (badness 1005) in paragraph at lines 704--705
+[13] [14] [15] [16] [17] [18] [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 1005) in paragraph at lines 708--709
 []\T2A/cmr/m/n/10.95 Заметим, что дей-ствия \T2A/cmr/bx/n/10.95 call \T2A/cmr/m
 /n/10.95 и \T2A/cmr/bx/n/10.95 return \T2A/cmr/m/n/10.95 ре-а-ли-зу-ют ло-ги-ку
 
  []
 
 
-Overfull \hbox (3.95784pt too wide) in paragraph at lines 710--741
+Overfull \hbox (3.95784pt too wide) in paragraph at lines 714--745
  [] 
  []
 
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 777--779
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 781--783
 []\T2A/cmr/m/n/10.95 Группируем пра-ви-ла с $\OML/cmm/m/it/10.95 A$ \T2A/cmr/m/
 n/10.95 в ле-вой ча-сти:
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 777--779
+Underfull \hbox (badness 1205) in paragraph at lines 781--783
 \OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 ` \OML/cmm/m/it/10.95 A[]\OMS/cmsy/m
 /n/10.95 j [] j\OML/cmm/m/it/10.95 A[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95
  ^^L[]\OMS/cmsy/m/n/10.95 j [] j\OML/cmm/m/it/10.95 ^^L[]$\T2A/cmr/m/n/10.95 , 
 где ни-ка-кая из сен-тен-ци-
  []
 
-[23]
-Underfull \hbox (badness 2073) in paragraph at lines 812--813
+[22]
+Underfull \hbox (badness 2073) in paragraph at lines 816--817
 []\T2A/cmr/m/n/10.95 Преобразование: для пра-вил $\OML/cmm/m/it/10.95 A \OMS/cm
 sy/m/n/10.95 ` \OML/cmm/m/it/10.95 ^^L[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.
 95 ^^L[]$ \T2A/cmr/m/n/10.95 грам-ма-ти-ки
  []
 
-[24] [25])
+[23] [24])
 \openout2 = `section_2.aux'.
 
  (section_2.tex
@@ -1203,7 +1123,7 @@ LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line
 (C:\Users\ICPC-NB-XX\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.f
 d
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [26
+) [25
 
 
 
@@ -1212,7 +1132,7 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 77.
- (llparsing.py [27]
+ (llparsing.py [26]
 Overfull \hbox (15.00471pt too wide) in paragraph at lines 30--31
 [][][][][][][][][][][][][][][] 
  []
@@ -1220,7 +1140,7 @@ Overfull \hbox (15.00471pt too wide) in paragraph at lines 30--31
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [27]
 (lltable.py
 Overfull \hbox (9.90591pt too wide) in paragraph at lines 25--26
 [][][][][][][][][][][][][][][] 
@@ -1241,10 +1161,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-[29]) [30] (_close.tex
+[28]) [29] (_close.tex
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 30.
-) [31
+) [30
 
 
 ] (main.aux (section_1.aux) (section_2.aux))
@@ -1252,35 +1172,32 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.49pt have occurred.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E09289755EDCAF45ABDD621A80B85CF1;3942.
+(rerunfilecheck)             Checksum: 40BB8C2E51C9E439C221EA7B36678CB9;3809.
  ) 
 Here is how much of TeX's memory you used:
- 15052 strings out of 478582
- 234321 string characters out of 2841985
- 741012 words of memory out of 3000000
- 32757 multiletter control sequences out of 15000+600000
+ 15043 strings out of 478582
+ 234108 string characters out of 2841985
+ 741960 words of memory out of 3000000
+ 32752 multiletter control sequences out of 15000+600000
  508507 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,14n,76p,1191b,2101s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,14n,76p,1191b,2099s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
 arm1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\labx0800.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/
 lh/lh-t2a/dpi600\latt1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/p
 k/ljfour/lh/lh-t2a/dpi600\labi1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTe
-X\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ICPC-NB-XX\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\ICPC-NB-XX
-\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\I
-CPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C
-:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx10
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICPC-NB-XX\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\ICPC-NB-XX
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\I
+CPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C
+:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
 95.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
-00\larm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
+00\labx1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm1095.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fonts/pk/ljf
 our/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\ICPC-NB-XX\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
+ts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\ICPC-NB-XX\AppData\Local\M
 iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\ICPC-NB-XX\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\ICPC-N
 B-XX\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Use
@@ -1305,9 +1222,9 @@ s/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7
 onts/cm/cmsy9.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/symbols/msam10.pfb><C:/Users/ICPC-NB-XX/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (31 pages, 522585 bytes).
+Output written on main.pdf (30 pages, 509891 bytes).
 PDF statistics:
- 1367 PDF objects out of 1440 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1337 PDF objects out of 1440 (max. 8388607)
+ 176 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

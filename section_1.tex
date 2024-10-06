@@ -81,7 +81,8 @@ Cогласно определениям, $FIRST_{k}(A)$ и $FOLLOW_{k}(A)$ содержат, соответсвенно,
 		\While{$FOLLOW_k(A)|_{A \in N}$ изменяется}
 		\For{$B \vdash \beta \in P$}
 		\For{$\beta=\mu A \nu$ разбиений, где $A \in N, \mu,\nu \in (\Sigma \cup{\{\$\}} \cup N)^*$}
-		\State {$FOLLOW_k(A)\gets FOLLOW_k(A)\cup FIRST_k( FIRST_k(\nu)\cdot{FOLLOW_k(B)})$}
+		\State {$FOLLOW_k(A)\gets FOLLOW_k(A)\cup FIRST_k( FIRST_k(\nu)\cdot$ 
+		\State $\cdot{FOLLOW_k(B)})$}
 		\EndFor
 		\EndFor
 		\EndWhile
@@ -133,8 +134,7 @@ LL(k) грамматика --- грамматика, для которой для некоторого $k\geq{1}$ существуе
 	
 	\begin{tabular}  {p{2.20cm}  p{8.30cm}}
 		{\bf\normalsize Теорема 3. (о построении управляющей таблицы)}
-		& \emph{Для LL(k)-грамматики $G = \langle N, \Sigma, P, S \rangle$, для любого её правила вида $A \vdash X_1\dots{X_l} \in P$, если $x \in FIRST_k(FIRST_k(X_1)\cdot{}\dots{\cdot{}{FIRST_k(X_l)}}
-			\cdot{FOLLOW_k(A)})$, то ячейка управляющей таблицы $T_k(A, x)$ содержит единственное правило $A \vdash X_1\dots{X_l}$.}.
+		& \emph{Для LL(k)-грамматики $G = \langle N, \Sigma, P, S \rangle$, для любого её правила вида $A \vdash X_1\dots{X_l} \in P$, если $x \in FIRST_k(FIRST_k(X_1)\cdot{}\dots{\cdot{}{FIRST_k(X_l)}}\cdot$ $\cdot{FOLLOW_k(A)})$, то ячейка управляющей таблицы $T_k(A, x)$ содержит единственное правило $A \vdash X_1\dots{X_l}$.}.
 	\end{tabular}
 	
 \end{flushleft}	
@@ -149,7 +149,7 @@ LL(k) грамматика --- грамматика, для которой для некоторого $k\geq{1}$ существуе
 	\begin{tabular}  {p{2.20cm}  p{8.30cm}}
 		{\bf\normalsize Лемма 4 (об эквивалентном определении)}
 		& \emph{$G = \langle N, \Sigma, P, S \rangle$ является $LL(k)$ грамматикой тогда и только тогда, когда
-			$(\forall A \vdash \alpha|\beta \in P) \Rightarrow ({FIRST_k(\alpha\gamma)\cap{FIRST_k(\beta\gamma)}}=\varnothing)$ при всех таких $\omega A \gamma$, что $S \vdash_{lm}^* \omega A \gamma$.}.
+			$(\forall A \vdash \alpha|\beta \in P) \Rightarrow ({FIRST_k(\alpha\gamma)\cap{FIRST_k(\beta\gamma)}}=$ $=\varnothing)$ при всех таких $\omega A \gamma$, что $S \vdash_{lm}^* \omega A \gamma$}.
 	\end{tabular}
 	
 \end{flushleft}
@@ -157,10 +157,12 @@ LL(k) грамматика --- грамматика, для которой для некоторого $k\geq{1}$ существуе
 Дальнейшие рассуждения и построения будут проводиться для $k=1$. Важно заметить, что при больших $k$ управляющая таблица сильно разрастается\footnote{Хоть и не показательно, как в теоретически худшем случае}, поэтому на практике алгоритм применим для небольших $k$.
 
 В частном случае для $k = 1$:
+
 {\bf$\blacktriangle$ Определение 8.}
-$ FIRST(\alpha) = \{ a \in \Sigma \mid \exists \gamma \in (N \cup \Sigma)^*: \alpha \vdash^* a \gamma \} $, где $ \alpha \in (N \cup \Sigma)^* $
+$ FIRST(\alpha) = \{ a \in \Sigma \mid \exists \gamma \in (N \cup \Sigma)^*: $ $\alpha \vdash^* a \gamma \} $, где $ \alpha \in (N \cup \Sigma)^* $
+
 {\bf$\blacktriangle$ Определение 9.}
-$ FOLLOW(\beta) = \{ a \in \Sigma \mid \exists \gamma, \alpha \in (N \cup \Sigma)^* : S \vdash^* \gamma \beta a \alpha \} \text{, где } \beta \in (N \cup \Sigma)^*  $
+$ FOLLOW(\beta) = \{ a \in \Sigma \mid \exists \gamma, \alpha \in (N \cup \Sigma)^* :$ $S \vdash^* \gamma \beta a \alpha \} \text{, где } \beta \in (N \cup \Sigma)^*  $
 Множество $FIRST$ можно вычислить, пользуясь следующими соотношениями:
 
 \begin{itemize}
@@ -180,8 +182,10 @@ $ FOLLOW(\beta) = \{ a \in \Sigma \mid \exists \gamma, \alpha \in (N \cup \Sigma
 		\State Положим $FOLLOW(X) \gets \varnothing, \forall X \in N$
 		\State $FOLLOW(S) \gets FOLLOW(S) \cup \{\$\}$ , где $S$ --- стартовый нетерминал
 		\While{множества $FOLLOW$ меняются}
-		\State Для всех правил вида $A \vdash \alpha X \beta: FOLLOW(X) \gets FOLLOW(X) \cup (FIRST(\beta) \setminus \{\varepsilon\} )$.
-		\State Для всех правил вида $A \vdash \alpha X \text{ и } A \vdash \alpha X \beta \text{, где } \varepsilon \in FIRST(\beta): FOLLOW(X) \gets FOLLOW(X) \cup FOLLOW(A)$
+		\State Для всех правил вида $A \vdash \alpha X \beta:$ 
+		\State $FOLLOW(X) \gets FOLLOW(X) \cup (FIRST(\beta) \setminus \{\varepsilon\} )$.
+		\State Для всех правил вида $A \vdash \alpha X \text{ и } A \vdash \alpha X \beta \text{, где } \varepsilon \in FIRST(\beta):$ 
+		\State $FOLLOW(X) \gets FOLLOW(X) \cup FOLLOW(A)$
 		\EndWhile
 	\end{algorithmic}
 \end{algorithm}
@@ -276,8 +280,8 @@ $ FOLLOW(\beta) = \{ a \in \Sigma \mid \exists \gamma, \alpha \in (N \cup \Sigma
 		{\bf\normalsize Лемма 5 (об эквивалентном определении)}
 		& \emph{Грамматика $G = \langle \Sigma, N, S, P \rangle$ и $\omega \in \Sigma^{*}$ является LL(1) тогда и только тогда, когда выполнены 2 условия:
 			\begin{enumerate}
-				\item $(\forall A \vdash \alpha|\beta \in P) \Rightarrow ({FIRST(\alpha)\cap{FIRST(\beta)}}=\varnothing)$ 
-				\item $(\forall A \vdash \alpha|\beta \in P: \varepsilon \in FIRST(\alpha)) \Rightarrow ({FOLLOW(A)\cap{FIRST(\beta)}}=\varnothing)$
+				\item $(\forall A \vdash \alpha|\beta \in P) \Rightarrow$  $\Rightarrow({FIRST(\alpha)\cap{FIRST(\beta)}}=\varnothing)$ 
+				\item $(\forall A \vdash \alpha|\beta \in P: \varepsilon \in FIRST(\alpha)) \Rightarrow$ $\Rightarrow({FOLLOW(A)\cap{FIRST(\beta)}}=\varnothing)$
 			\end{enumerate}
 			Здесь $\alpha,\beta \in (N\cup{\Sigma})^*$ --- две сентенциальные формы $G$.}
 	\end{tabular}
